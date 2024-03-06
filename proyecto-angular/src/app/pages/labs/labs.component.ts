@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./labs.component.css']
 })
 export class LabsComponent {
-
+ welcome = "Hola, yo soy un componente en el archivo labs.components.ts";
 }
